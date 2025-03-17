@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.orqa {
+  background-color: #343c56;
+}
+.adiv {
+  height: 40px;
+  width: 1000pxpx;
+  display: flex;
+  justify-content: space-between;
+
+  justify-self: center;
+  margin-left: 80px;
+  margin-top: 104px;
+  margin-right: 81px;
+  gap: 65px;
+  align-items: center;
+}
+
+.a {
+  background-color: red;
+  width: 200px;
+  height: 40px;
+
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.rasmlar {
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-left: 80px;
+  margin-right: 81px;
+}
+.img {
+  width: 400px;
+  height: 250px;
+}
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 680px;
+}
+.orta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.qora {
+  width: 264px;
+  height: 118px;
+  top: 453px;
+  left: 588px;
+  border-radius: 40px;
+
+  border-radius: 40px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.pas {
+  display: flex;
+  justify-content: space-around;
+}
+.p {
+  width: 400px;
+  height: 200px;
+
+  border-radius: 50px;
+  background-color: #eb1616;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  width: 300px;
+  height: 109px;
+
+  background-color: #61ff00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
